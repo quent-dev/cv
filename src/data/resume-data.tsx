@@ -79,7 +79,7 @@ export const RESUME_DATA = {
     },
     {
       company: "Natixis CIB Americas",
-      link: "https://clevertech.biz",
+      link: "https://cib.natixis.com/home/",
       badges: ["Finance", "Business Development"],
       title: "Intern → Business Manager of IB department",
       logo: ClevertechLogo,
@@ -120,7 +120,7 @@ export const RESUME_DATA = {
       logo: MonitoLogo,
       link: {
         label: "cv page",
-        href: "",
+        href: "https://cv-qt.vercel.app/",
       },
     },
     // {
